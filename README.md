@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 visitors<br><br>🔭 I’m currently working at CERP LABS<br>⚙️ I use daily: .ex, .cs, .ts, .js, tsx, .html, .css<br>😐 I have a love/hate relationship with Programming<br>🔭  I’m open for collaborations in Web Development domain<br>📺 I'm looking for Good Projects.<br>
+Hi 👋 visitors<br><br>🔭 I’m currently working at Revotic AI<br>⚙️ I use daily: .ex, .cs, .ts, .js, tsx, .html, .css<br>😐 I have a love/hate relationship with Programming<br>🔭  I’m open for collaborations in Web Development domain<br>📺 I'm looking for Good Projects.<br>
 
 
 ## 🌐 Socials:

@@ -35,5 +35,5 @@ A powerful analytics SaaS tool designed for modern digital tracking. Built with 
 
 ### ● `Contact`
 
-- **LinkedIn:** [linkedin.com/in/adnanjamilmeo](https://linkedin.com/in/m-adnan-jamil)
+- **LinkedIn:** [linkedin.com/in/adnanjamilmeo](https://linkedin.com/in/adnanjamilmeo)
 - **X (Twitter):** [x.com/m_adnanjamil](https://x.com/m_adnanjamil)
